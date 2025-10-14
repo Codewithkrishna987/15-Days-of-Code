@@ -1,0 +1,4 @@
+day->1 
+q1. https://codeforces.com/problemset/problem/1877/A
+q2. https://codeforces.com/problemset/problem/1878/A
+q3. https://codeforces.com/problemset/problem/1881/A
