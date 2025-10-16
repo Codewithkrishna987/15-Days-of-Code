@@ -2,3 +2,15 @@ day->1
 q1. https://codeforces.com/problemset/problem/1877/A
 q2. https://codeforces.com/problemset/problem/1878/A
 q3. https://codeforces.com/problemset/problem/1881/A
+
+
+
+
+day->2
+Codechef contest rating (1224 -> 1283 (Division-4))
+q1-> https://www.codechef.com/problems/SBTG?tab=statement
+q2-> https://www.codechef.com/problems/GUCD?tab=statement
+q3-> https://www.codechef.com/problems/ALJMP?tab=statement
+
+leetcode
+q4-> https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/?envType=daily-question&envId=2025-10-15
