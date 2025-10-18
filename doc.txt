@@ -14,3 +14,12 @@ q3-> https://www.codechef.com/problems/ALJMP?tab=statement
 
 leetcode
 q4-> https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/?envType=daily-question&envId=2025-10-15
+
+
+day->3
+q1 -> https://codeforces.com/problemset/problem/1873/C
+q2 -> https://codeforces.com/problemset/problem/1866/A
+q3 -> https://codeforces.com/problemset/problem/1862/A
+q4 -> https://codeforces.com/problemset/problem/1859/A
+
+leetcode q1-> https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/description/?envType=daily-question&envId=2025-10-18
