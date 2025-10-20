@@ -23,3 +23,10 @@ q3 -> https://codeforces.com/problemset/problem/1862/A
 q4 -> https://codeforces.com/problemset/problem/1859/A
 
 leetcode q1-> https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/description/?envType=daily-question&envId=2025-10-18
+
+
+day->4
+
+q1 -> https://codeforces.com/submissions/kg886120
+
+q2-> https://leetcode.com/problems/trapping-rain-water/description/
