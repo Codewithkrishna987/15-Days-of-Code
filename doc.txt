@@ -30,3 +30,13 @@ day->4
 q1 -> https://codeforces.com/submissions/kg886120
 
 q2-> https://leetcode.com/problems/trapping-rain-water/description/
+
+
+day->5
+codeforces
+q1->https://codeforces.com/problemset/problem/1858/A
+q2->https://codeforces.com/problemset/problem/1857/A
+
+leetcode
+q1->https://leetcode.com/submissions/detail/1807772036/
+q2->https://leetcode.com/submissions/detail/1807772036/
