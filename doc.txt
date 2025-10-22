@@ -40,3 +40,13 @@ q2->https://codeforces.com/problemset/problem/1857/A
 leetcode
 q1->https://leetcode.com/submissions/detail/1807772036/
 q2->https://leetcode.com/submissions/detail/1807772036/
+
+
+day-6
+codeforces
+q1->https://codeforces.com/contest/1837/problem/A
+q2->https://codeforces.com/contest/1831/problem/A
+
+leetcode
+q1->https://leetcode.com/submissions/detail/1807941710/
+q2->https://leetcode.com/submissions/detail/1807881417/
