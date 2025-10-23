@@ -50,3 +50,10 @@ q2->https://codeforces.com/contest/1831/problem/A
 leetcode
 q1->https://leetcode.com/submissions/detail/1807941710/
 q2->https://leetcode.com/submissions/detail/1807881417/
+
+
+day->7
+codeforces
+q1->https://codeforces.com/problemset/problem/1814/A
+q2->https://codeforces.com/problemset/problem/1806/A
+q3->https://codeforces.com/problemset/problem/1805/A
