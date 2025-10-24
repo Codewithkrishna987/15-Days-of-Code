@@ -57,3 +57,10 @@ codeforces
 q1->https://codeforces.com/problemset/problem/1814/A
 q2->https://codeforces.com/problemset/problem/1806/A
 q3->https://codeforces.com/problemset/problem/1805/A
+
+
+day->8
+q1->https://leetcode.com/submissions/detail/1810606943/
+q2->https://leetcode.com/submissions/detail/1810237873/
+q3->https://codeforces.com/contest/2156/problem/A
+
