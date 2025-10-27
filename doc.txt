@@ -69,3 +69,10 @@ day->9
 q1->https://leetcode.com/problems/simple-bank-system/description/?envType=daily-question&envId=2025-10-26
 q2->https://codeforces.com/problemset/problem/1788/A
 q3->https://codeforces.com/problemset/problem/1789/A
+
+
+day->10
+q1->https://leetcode.com/submissions/detail/1812560715/
+q2->https://leetcode.com/submissions/detail/1812581364/
+q3->https://leetcode.com/submissions/detail/1813068863/
+q4->https://leetcode.com/submissions/detail/1813039291/
