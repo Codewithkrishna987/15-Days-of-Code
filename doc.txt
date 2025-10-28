@@ -76,3 +76,11 @@ q1->https://leetcode.com/submissions/detail/1812560715/
 q2->https://leetcode.com/submissions/detail/1812581364/
 q3->https://leetcode.com/submissions/detail/1813068863/
 q4->https://leetcode.com/submissions/detail/1813039291/
+
+day->11
+q1->https://codeforces.com/problemset/problem/2167/C
+q2->https://codeforces.com/problemset/problem/1777/A
+q3->https://codeforces.com/problemset/problem/1766/A
+q4->https://codeforces.com/problemset/problem/1761/A
+
+q5->https://leetcode.com/submissions/detail/1813871774/
