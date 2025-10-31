@@ -94,3 +94,9 @@ q3->https://codeforces.com/contest/1904/problem/A
 codechef-> 1295->1345
 codeforces->903
 
+day-13
+q1->https://leetcode.com/submissions/detail/1816658939/
+q2->https://leetcode.com/submissions/detail/1816652533/
+q3->https://leetcode.com/submissions/detail/1816301190/
+q4->https://leetcode.com/submissions/detail/1816250482/
+
